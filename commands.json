@@ -1,6 +1,7 @@
 {
   "commands": [
     "Clear H8",
-    "Flag F8"
+    "Flag F8",
+    "Clear F7"
   ]
 }
